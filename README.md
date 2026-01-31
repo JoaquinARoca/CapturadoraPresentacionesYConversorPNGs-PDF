@@ -23,4 +23,4 @@ pip install pyautogui\
 *Recomendación: si tienes dos pantallas es mejor para visualizar la ventana mientras va ejecutandose*
 6. Al finalizar se habrá generado una carpeta screenshots con las imagenes de las slides
 7. Abre el fichero de PNGaPDF.py y cambia la dirección de la carpeta destino por la dirección de la carpeta de las screenshots recien generada y el nombre del archivo que tu prefieras, siempre finalizado por .pdf
-8. ejecuta 
+8. ejecuta el fichero y ya tienes tu PDF
